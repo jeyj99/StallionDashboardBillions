@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:13:40	208/208	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2018%20Aug%202020%2019:13:38%20GMT	https://preview-dev.tabler.io/robots.txt		(from )
+15:13:40	92408/92408	---M-Z	200	added ('OK')	text/html	date:Fri,%2001%20May%202020%2014:31:02%20GMT	https://preview-dev.tabler.io/	/Users/jeyjeyapalan/websites/DemoWeb/preview-dev.tabler.io/index.html	(from )
+15:13:40	1561/1561	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2018%20Aug%202020%2019:13:40%20GMT	https://fonts.gstatic.com/	/Users/jeyjeyapalan/websites/DemoWeb/fonts.gstatic.com/index.html	(from https://preview-dev.tabler.io/)
+15:13:40	1571/1571	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2018%20Aug%202020%2019:13:40%20GMT	https://fonts.gstatic.com/robots.txt		(from https://preview-dev.tabler.io/)
